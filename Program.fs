@@ -2,7 +2,6 @@
 
 open System
 
-let someText = "someText";
 
 [<EntryPoint>]
 let main argv =
