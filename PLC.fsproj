@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="MiniProject.fs" />
     <Compile Include="Exercises.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
